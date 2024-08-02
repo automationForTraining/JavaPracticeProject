@@ -4,10 +4,12 @@ class Animal {
 	
 	public void eat() {
 		System.out.println("eating..");
+		System.out.println("Animals eat food");
 	}
 	
 	public void sleep() {
 		System.out.println("sleeping...");
+		System.out.println("Animals sleep all day");
 	}
 }
 
